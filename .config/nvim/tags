@@ -1,0 +1,68 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/lugot/.nv-ide/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+M.my_git_bcommits	lua/plugins/telescope.lua	/^M.my_git_bcommits = function(opts)$/;"	f
+M.my_git_commits	lua/plugins/telescope.lua	/^M.my_git_commits = function(opts)$/;"	f
+M.my_git_status	lua/plugins/telescope.lua	/^M.my_git_status = function(opts)$/;"	f
+M.my_note	lua/plugins/telescope.lua	/^M.my_note = function(opts)$/;"	f
+M.project_files	lua/plugins/telescope.lua	/^M.project_files = function()$/;"	f
+MUtils.completion_confirm	lua/plugins/nvim-autopairs.lua	/^MUtils.completion_confirm=function()$/;"	f
+_G.smart_tab	lua/settings/completion.lua	/^function _G.smart_tab()$/;"	f
+__add	lua/opts.lua	/^  __add = function(left, right)$/;"	f
+__add	lua/settings/opts.lua	/^  __add = function(left, right)$/;"	f
+__index	lua/opts.lua	/^  __index = function(t, k)$/;"	f
+__index	lua/settings/opts.lua	/^  __index = function(t, k)$/;"	f
+__newindex	lua/opts.lua	/^  __newindex = function(t, k, v)$/;"	f
+__newindex	lua/settings/opts.lua	/^  __newindex = function(t, k, v)$/;"	f
+__sub	lua/opts.lua	/^  __sub = function(left, right)$/;"	f
+__sub	lua/settings/opts.lua	/^  __sub = function(left, right)$/;"	f
+add_value	lua/opts.lua	/^local add_value = function(current, new)$/;"	f
+add_value	lua/settings/opts.lua	/^local add_value = function(current, new)$/;"	f
+apply_options	lua/settings/init.lua	/^local apply_options = function(opts)$/;"	f
+buffer_not_empty	lua/plugins/feline.lua	/^local buffer_not_empty = function()$/;"	f
+buffer_not_empty	lua/plugins/galaxyline.lua	/^local buffer_not_empty = function()$/;"	f
+checkwidth	lua/plugins/feline.lua	/^local checkwidth = function()$/;"	f
+checkwidth	lua/plugins/galaxyline.lua	/^local checkwidth = function()$/;"	f
+clean_value	lua/opts.lua	/^local clean_value = function(v)$/;"	f
+clean_value	lua/settings/opts.lua	/^local clean_value = function(v)$/;"	f
+concat_key_values	lua/opts.lua	/^local concat_key_values = function(t, sep, divider)$/;"	f
+concat_key_values	lua/settings/opts.lua	/^local concat_key_values = function(t, sep, divider)$/;"	f
+convert_lua_to_vimoption	lua/opts.lua	/^local convert_lua_to_vimoption = function(t)$/;"	f
+convert_lua_to_vimoption	lua/settings/opts.lua	/^local convert_lua_to_vimoption = function(t)$/;"	f
+convert_vimoption_to_lua	lua/opts.lua	/^local convert_vimoption_to_lua = function(option, val)$/;"	f
+convert_vimoption_to_lua	lua/settings/opts.lua	/^local convert_vimoption_to_lua = function(option, val)$/;"	f
+css_fn	lua/plugins/colorizer.lua	/^  css_fn   = true;         -- Enable all CSS *functions*: rgb_fn, hsl_fn$/;"	f
+enabled	lua/plugins/feline.lua	/^  enabled = function() return lsp.diagnostics_exist('Error') end,$/;"	f
+enabled	lua/plugins/feline.lua	/^  enabled = function() return lsp.diagnostics_exist('Hint') end,$/;"	f
+enabled	lua/plugins/feline.lua	/^  enabled = function() return lsp.diagnostics_exist('Information') end,$/;"	f
+enabled	lua/plugins/feline.lua	/^  enabled = function() return lsp.diagnostics_exist('Warning') end,$/;"	f
+enabled	lua/plugins/feline.lua	/^  enabled = function() return vim.fn.getfsize(vim.fn.expand('%:t')) > 0 end,$/;"	f
+get_command	lua/plugins/telescope.lua	/^  get_command = function(entry)$/;"	f
+goto_last_pos	lua/settings/init.lua	/^function goto_last_pos()$/;"	f
+hl	lua/plugins/feline.lua	/^  hl = function()$/;"	f
+hsl_fn	lua/plugins/colorizer.lua	/^  hsl_fn   = true;         -- CSS hsl() and hsla() functions$/;"	f
+if_nil	lua/opts.lua	/^local if_nil = function(a, b)$/;"	f
+if_nil	lua/settings/opts.lua	/^local if_nil = function(a, b)$/;"	f
+override_lens	lua/plugins/hlslens.lua	/^  override_lens = function(render, plist, nearest, idx, r_idx)$/;"	f
+provider	lua/plugins/feline.lua	/^  provider = function() return '' .. vim.bo.fileformat:upper() .. '' end,$/;"	f
+provider	lua/plugins/feline.lua	/^  provider = function()$/;"	f
+provider	lua/plugins/galaxyline.lua	/^    provider = function () return '' end$/;"	f
+provider	lua/plugins/galaxyline.lua	/^    provider = function() return ' ' end,$/;"	f
+provider	lua/plugins/galaxyline.lua	/^    provider = function()$/;"	f
+remove_duplicate_values	lua/opts.lua	/^local remove_duplicate_values = function(t)$/;"	f
+remove_duplicate_values	lua/settings/opts.lua	/^local remove_duplicate_values = function(t)$/;"	f
+remove_value	lua/opts.lua	/^local remove_value = function(t, val)$/;"	f
+remove_value	lua/settings/opts.lua	/^local remove_value = function(t, val)$/;"	f
+rgb_fn	lua/plugins/colorizer.lua	/^  rgb_fn   = true;         -- CSS rgb() and rgba() functions$/;"	f
+separator_highlight	lua/plugins/galaxyline.lua	/^  separator_highlight = {colors.yellow,function()$/;"	f
+set_key_value	lua/opts.lua	/^local set_key_value = function(t, key_value_str)$/;"	f
+set_key_value	lua/settings/opts.lua	/^local set_key_value = function(t, key_value_str)$/;"	f
+t	lua/settings/completion.lua	/^local function t(str)$/;"	f
